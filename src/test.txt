@@ -1,0 +1,54 @@
+give
+	< verb subj obj (iobj n p) (pred p) auxcomp comp
+John
+	< noun (obj n p) nid pn
+Mary
+	< noun (obj n p) nid pn
+a
+	< det (obj n)
+the
+	< det (obj n)
+check
+	< noun (obj n p) nid
+	< verb subj obj (iobj n p) (pred p) auxcomp comp
+book
+	< noun (obj n p) nid
+ball
+	< noun (obj n p) nid
+to	
+	< prep objprep
+be
+	< verb subj obj (iobj n p) (pred p) auxcomp comp
+by
+	< prep objprep
+data base
+	< noun (obj n p) nid
+data
+	< noun (obj n p) nid
+base
+	< noun (obj n p) nid
+Attorney General
+	< noun (obj n p) nid pn
+attorney
+	< noun (obj n p) nid
+general
+	< noun (obj n p) nid
+The Cat in the Hat
+    < noun (obj n p) nid
+cat
+    < noun (obj n p) nid
+in
+    < noun (obj n p) nid
+    < adj (obj n p) nid
+    < adverb (obj n p) nid
+hat
+    < noun (obj n p) nid
+    < adjective (obj n p) nid
+    < adverb (obj n p) nid
+slip 
+     < verb subj obj (iobj n p) (pred p) auxcomp comp
+on
+    < adjective (obj n p) nid
+    < adverb (obj n p) nid
+mat
+    < noun (obj n p) nid
